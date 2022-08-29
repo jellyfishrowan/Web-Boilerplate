@@ -8,7 +8,7 @@ The real benefit is that all of the default CSS properties (that I could find, w
 
 
 # Do I need to worry about licences or Copyright?
-No, do whatever you want with this. I'm obviously not responsible for any bad decisions you make with this.
+No, do whatever you want with this. I'm obviously not responsible for any good decisions you make with this.
 
 
 
