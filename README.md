@@ -7,12 +7,12 @@ The real benefit is that all of the default CSS properties (that I could find, w
 
 
 
-#Do I need to worry about licences or Copyright?
+# Do I need to worry about licences or Copyright?
 No, do whatever you want with this. I'm obviously not responsible for any bad decisions you make with this.
 
 
 
-#How Should I use this?
+# How Should I use this?
 You can:
  - Copy the whole thing and put your own code in as you work, like I do
  - Use it as a reference, to see what default values are in case you lose track
@@ -20,10 +20,10 @@ You can:
 
 
 
-#Is this everything?
+# Is this everything?
 No, I'm certain there are things I have missed and different browsers have their own built-in elements.
 
 
 
-#Will you continue to update this?
+# Will you continue to update this?
 I use this as a personal boilerplate, I will update it if I feel like it's missing something. You are always welcome to make suggestions or ask for new things to be included, but I make no promises. 
